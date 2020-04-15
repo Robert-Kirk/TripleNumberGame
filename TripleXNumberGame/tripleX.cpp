@@ -146,7 +146,7 @@ int main() {
 	srand(time(NULL));
 	//Default False
 	bool victory{};
-	int FinalDifficultyLevel = 10;
+	int FinalDifficultyLevel = 5;
 	//initial difficulty level
 	int DifficultyLevel = 1;
 
